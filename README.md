@@ -1,5 +1,5 @@
 # Pentesting Smart Contracts
-Minimalist guide to learn about security and pentesting smart contracts, from lab to practice, ctf and some recommendations.
+Minimalist guide to learn about security and pentesting smart contracts, from lab to practice, ctf and some recommendations. **(Updated - 26/06/2022)**
 
 ## Summary
 - [Resources](#Resources)
