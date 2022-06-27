@@ -1,10 +1,13 @@
 # Pentesting Smart Contracts
-Minimalist guide to learn about security and pentesting smart contracts, from lab to practice, ctf and some recommendations. **(Updated - 26/06/2022)**
+
+Minimalist resources to learn about security and pentesting smart contracts, from lab to practice, ctf and some recommendations. **(Updated - 26/06/2022)**
 
 ## Summary
+
 - [Resources](#Resources)
 - [Tools](#Tools)
 - [Labs - CTF](#Labs---CTF)
+- [Version Control](#Version-Control)
 
 ##  Resources
 
@@ -27,3 +30,9 @@ Minimalist guide to learn about security and pentesting smart contracts, from la
 
 - [damnvulnerabledefi.xyz/](https://www.damnvulnerabledefi.xyz/) - Damn Vulnerable DeFi is the wargame to learn offensive security of DeFi smart contracts.
 - [ethernaut.openzeppelin.com](https://ethernaut.openzeppelin.com/) - The Ethernaut is a Web3/Solidity based wargame inspired on [overthewire.org](https://overthewire.org/), played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+
+
+## Version Control
+
+- [Git Version - TheCyberpunker/smartcontracts](https://github.com/TheCyberpunker/smartcontracts)
+- [Web Version - thecyberpunker.com](https://thecyberpunker.com/blog/pentesting-smart-contracts/)
